@@ -1,9 +1,5 @@
 # Tower of Hanoi – Java AWT
 
-<<<<<<< HEAD
-This project is a **Tower of Hanoi visualization** built using **Core Java and AWT**.  
-It demonstrates recursion, animation, and object-oriented programming concepts.
-=======
 A **Tower of Hanoi visualization application** developed using **Core Java and AWT**.  
 This project demonstrates **recursion**, **animation**, and **object-oriented programming** concepts in a simple graphical interface.
 
@@ -23,19 +19,10 @@ This application allows the user to:
 - View the initial configuration
 - Automatically solve the puzzle using a recursive algorithm
 - Watch the solution through animated disk movements
->>>>>>> 4f0e3242a5c3b923ba7d80d335fb01af766b63e0
 
 ---
 
 ## ✨ Features
-<<<<<<< HEAD
-- User-defined number of disks
-- Recursive solution of Tower of Hanoi
-- Animated disk movement
-- Move counter display
-- No limit on number of disks
-- Built using **pure AWT** (no Swing)
-=======
 
 - User-defined number of disks
 - Recursive solution implementation
@@ -44,25 +31,10 @@ This application allows the user to:
 - No upper limit on disk count (practically limited by system performance)
 - Built using **pure Java AWT**
 - Simple and clean UI
->>>>>>> 4f0e3242a5c3b923ba7d80d335fb01af766b63e0
 
 ---
 
 ## 🛠 Technologies Used
-<<<<<<< HEAD
-- Java (Core Java)
-- AWT
-- Recursion
-- OOP Concepts
-
----
-
-## ▶ How to Run
-
-### Compile
-```bash
-javac src/aaabb/*.java
-=======
 
 - Java (Core Java)
 - AWT (Abstract Window Toolkit)
@@ -80,8 +52,6 @@ javac src/aaabb/*.java
 - └── README.md
 
   ---
-  ## 👩‍🎓 Prepared By
+
+## 👩‍🎓 Prepared By
 - **Astha Ankola**
-
-
->>>>>>> 4f0e3242a5c3b923ba7d80d335fb01af766b63e0
