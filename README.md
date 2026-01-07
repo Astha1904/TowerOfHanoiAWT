@@ -46,9 +46,8 @@ This application allows the user to:
 ## 📁 Project Structure
 
 - TowerOfHanoi-AWT/
-- ├── src/
-- │ ├── TowerOfHanoi.java
-- │ └── HanoiCanvas.java
+- │── TowerOfHanoi.java
+- │── HanoiCanvas.java
 - └── README.md
 
   ---
