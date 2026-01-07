@@ -41,7 +41,7 @@ public class HanoiCanvas extends Canvas {
         repaint();
 
         try {
-            Thread.sleep(500); // animation delay
+            Thread.sleep(1000); // animation delay
         } catch (InterruptedException e) {
             e.printStackTrace();
         }
@@ -92,3 +92,4 @@ public class HanoiCanvas extends Canvas {
         }
     }
 }
+
