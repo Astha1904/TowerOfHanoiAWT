@@ -53,4 +53,4 @@ This application allows the user to:
   ---
 
 ## 👩‍🎓 Prepared By
-- **Astha Ankola**
+- **Astha s Ankola**
